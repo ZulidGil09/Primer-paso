@@ -1,0 +1,9 @@
+
+
+.alto{background-color: green; margin: 1px; padding: 2px; width: 500px; height: 300px; }
+
+.medio { 
+    margin: 30px; padding: 20px; width: 400px; height: 200px; background-color: blueviolet;
+}
+
+.bajo {background: yellow;  margin: -10px; padding: 10px; width: 400px; height: 200px; }
